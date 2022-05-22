@@ -1,4 +1,5 @@
 # untitled
+![20220522_163623 (1) (1)](https://user-images.githubusercontent.com/95945668/169704401-99ffa246-93cb-4c8b-aa3b-baf3630ad00f.gif)
 1180505020 ECE DALPOLAT
 1190505035 ÜMMÜGÜLSÜM ALTINTAŞ
 1190505056 ENES AY
