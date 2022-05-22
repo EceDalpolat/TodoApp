@@ -6,6 +6,8 @@
 KAYNAKÇA
 https://blog.logrocket.com/creating-dropdown-list-flutter/
 https://stackoverflow.com/questions/51579546/how-to-format-datetime-in-flutter
+https://pub.dev/packages/intl/install
+https://stackoverflow.com/questions/55600319/flutter-dropdownbuttonformfield-value-not-updating
 
 A new Flutter project.
 
